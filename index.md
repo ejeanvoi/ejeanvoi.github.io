@@ -53,8 +53,8 @@ Community tasks
 * Advisor: Christine Morin
 * Summary:
 > The emergence of the grid computing allows the scientific community to consider the access to an unequaled computing power. However, some characteristics of a grid like the large scale, the dynamic behavior of the resources that compose the grid and their heterogeneity make its use very complex. This thesis study the design of system services for the execution of distributed applications in large scale grids. Thanks to a fully distributed and a generic approach, our system can harness the resources of any grid model, even those composed of dynamic and heterogeneous resources. In order to simplify the use of a grid, we suggest to provide users with a single system image that allows to hide the distribution of the resources. We also suggest services designed to execute a wide range of distributed applications in an efficient and reliable way.
-* Manuscript (in french): pdf.gz, ps.gz, TEL
-* Defense (2007/11/27): pdf.gz
+* Manuscript (in french): [pdf.gz](doc/these_EmmanuelJeanvoine.pdf.gz), [ps.gz](these_EmmanuelJeanvoine.ps.gz), [TEL](https://theses.hal.science/tel-00260099)
+* Defense (2007/11/27): [pdf.gz](defense.pdf.gz)
 
 ## Master thesis
 
@@ -62,4 +62,4 @@ Community tasks
 * Advisors: Hervé Guyennet, Éric Garcia, David Fuin
 * Summary:
 > The aim was to implement quality of service mechanisms in active networks. In this purpose, we have presented the concepts of quality of service and active networks, then we have drawn up an overview of existing works. Next, we have proposed an original mechanism of quality of service in active networks based on streams classification and scheduling. We have implemented this in ANTS and Tamanoir active nodes. Finally, we have realised experimentations in order to validate and to test the efficacity of our implementations.
-* Manuscript (in french): pdf.gz
+* Manuscript (in french): [pdf.gz](doc/DEA_EmmanuelJeanvoine.pdf.gz)
