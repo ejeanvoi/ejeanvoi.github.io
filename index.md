@@ -1,3 +1,24 @@
+<table>
+<tr>
+  <td><img src=emmanuel_jeanvoine.jpg></td>
+  <td>
+<pre>
+Contact
+  Address:
+    Université de Lausanne
+    Centre Informatique - Amphimax
+    Emmanuel Jeanvoine
+    CH-1015 Lausanne
+    Switzerland
+  Email:
+    emmanuel#dot#jeanvoine#at#unil#dot#ch
+    <a href=jeanvoine.asc>GPG key</a>
+  <a href=https://www.linkedin.com/in/emmanuel-jeanvoine-588a316/><img src=linkedin.png></a>
+</pre>
+  </td>
+</tr>
+</table>
+
 # Current activities
 
 ## HPC specialist at University of Lausanne
