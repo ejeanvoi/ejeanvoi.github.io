@@ -23,13 +23,16 @@ Contact
 
 ## HPC specialist at University of Lausanne
 
-From February 2020, I've joined the [Scientific Computing and Research Support Unit](https://unil.ch/ci/dcsr-en) of the [University of Lausanne](https://www.unil.ch/index.html).
+From February 2020, I've joined the [Scientific Computing and Research Support Unit](https://unil.ch/ci/dcsr-en) of the [University of Lausanne](https://www.unil.ch/index.html). Our team offers computing and storage infrastructures, as well as [research support](https://wiki.unil.ch/ci/books/research-support).
 
-I provide researchers of the University with the following support:
+I mainly provide researchers of the University with the following support:
+* access to the clusters
+* build the scientific software stack
 * parallel computing (CPU and GPU): OpenMP, MPI, Cuda
 * scientific programming: Python, C++, Julia, R
 * code optimization
 * courses: Linux, parallel computing with Python and Julia, Python/R/Singularity on the clusters
+* [documentation](https://wiki.unil.ch/ci/books/high-performance-computing-hpc) for our HPC users
 
 I'm also in charge of some DevOps tasks dedicated to our research infrastructures like:
 * automated provisioning of the virtual infratructure
